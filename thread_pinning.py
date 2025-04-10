@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Gayathri Narayana <gayathrinarayana.yegnanarayanan@arm.com>
 import os
 import subprocess
 import random
